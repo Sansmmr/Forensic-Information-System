@@ -1,0 +1,1 @@
+A forensic information system has been developed that uses a MySQL database to organize the storage of photographic images of people. The project is implemented in the Python programming language and includes the functionality of saving, organizing and searching photos for use in criminal activities.
